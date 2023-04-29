@@ -6,9 +6,9 @@
   education1: BS Information Technology, <a href="http://nust.edu.pk/">National University of Sciences and Technology, Pakistan</a>. 2008
   education2: PhD Computer Science with Songwu Lu, <a href="http://www.cs.ucla.edu/">University of California, Los Angeles</a>. 2019
   number_rec: 3
-  interests1: Networked systems security
-  interests2: Internet of things
-  interests3: Cloud computing
+  interest1: Networked systems security
+  interest2: Internet of things
+  interest3: Cloud computing
 
 - name: Raja Hasnain Anwar
   photo: hasnain.jpg
@@ -17,9 +17,9 @@
   number_educ: 1
   education1: BS Computer Science, <a href="http://nust.edu.pk/">National University of Sciences and Technology, Pakistan</a>. 2020
   number_rec: 3
-  interests1: Security and privacy
-  interests2: Networked systems security
-  interests3: Machine Learning
+  interest1: Security and privacy
+  interest2: Networked systems security
+  interest3: Machine Learning
 
 - name: Yutong Liu
   photo: rock.jpg
