@@ -7,17 +7,3 @@
 #  education2:
 #  education3:
 #  education4:
-
-- name: Raja Hasnain Anwar
-  photo: hasnain.jpg
-  info: PhD Student
-  email: rajahasnainanwar_AT_arizona.edu
-  number_educ: 1
-  education1: BS Computer Science, <a href="http://nust.edu.pk/">National University of Sciences and Technology, Pakistan</a>
-
-- name: Yutong Liu
-  photo: rock.jpg
-  info: PhD student
-  email: yutong_AT_arizona.edu
-  number_educ: 0
-  education1:

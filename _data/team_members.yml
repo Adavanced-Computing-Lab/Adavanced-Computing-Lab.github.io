@@ -6,6 +6,21 @@
   education1: BS Information Technology, <a href="http://nust.edu.pk/">National University of Sciences and Technology, Pakistan</a>
   education2: PhD Computer Science with Songwu Lu, <a href="http://www.cs.ucla.edu/">University of California, Los Angeles</a>
 
+- name: Raja Hasnain Anwar
+  photo: hasnain.jpg
+  info: PhD Student
+  email: rajahasnainanwar_AT_arizona.edu
+  number_educ: 1
+  education1: BS Computer Science, <a href="http://nust.edu.pk/">National University of Sciences and Technology, Pakistan</a>
+
+- name: Yutong Liu
+  photo: rock.jpg
+  info: PhD student
+  email: yutong_AT_arizona.edu
+  number_educ: 0
+  education1:
+
+
 - name: "This could be you !"
   photo: rock.jpg
   # info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
