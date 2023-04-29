@@ -3,15 +3,23 @@
   info: Assistant Professor
   email: taqi_AT_arizona.edu
   number_educ: 2
-  education1: BS Information Technology, <a href="http://nust.edu.pk/">National University of Sciences and Technology, Pakistan</a>
-  education2: PhD Computer Science with Songwu Lu, <a href="http://www.cs.ucla.edu/">University of California, Los Angeles</a>
+  education1: BS Information Technology, <a href="http://nust.edu.pk/">National University of Sciences and Technology, Pakistan</a>. 2008
+  education2: PhD Computer Science with Songwu Lu, <a href="http://www.cs.ucla.edu/">University of California, Los Angeles</a>. 2019
+  number_rec: 3
+  interests1: Networked systems security
+  interests2: Internet of things
+  interests3: Cloud computing
 
 - name: Raja Hasnain Anwar
   photo: hasnain.jpg
   info: PhD Student
   email: rajahasnainanwar_AT_arizona.edu
   number_educ: 1
-  education1: BS Computer Science, <a href="http://nust.edu.pk/">National University of Sciences and Technology, Pakistan</a>
+  education1: BS Computer Science, <a href="http://nust.edu.pk/">National University of Sciences and Technology, Pakistan</a>. 2020
+  number_rec: 3
+  interests1: Security and privacy
+  interests2: Networked systems security
+  interests3: Machine Learning
 
 - name: Yutong Liu
   photo: rock.jpg
