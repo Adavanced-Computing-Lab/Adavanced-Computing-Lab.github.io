@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "Advanced Computing Lab - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Advanced Computing Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
@@ -26,7 +26,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }}
+  <br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -191,6 +192,5 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 </div>
 
-
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+<!-- ## Administrative Support
+<a href="mailto:rajahasnainanwar@arizona.edu">Raja Hasnain Anwar</a> is helping us (and other groups) with administration. -->
