@@ -24,13 +24,10 @@ We are a dynamic research group at the [The University of Arizona](http://www.ar
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/powder-renew1.jpg" alt="Slide 1" />
+            <a href="{{ site.url }}{{ site.baseurl }}/research"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/POWDER-RENEW.gif" alt="Slide 1" /></a>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/powder-renew2.jpg" alt="Slide 2" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/icis-treo.jpg" alt="Slide 2" />
+            <a href="{{ site.url }}{{ site.baseurl }}/research"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/icis-treo.jpg" alt="Slide 2" /></a>
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
