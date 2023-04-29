@@ -1,0 +1,13 @@
+- title: "Detecting Privacy Threats with Machine Learning: A Design Framework for Identifying Side-Channel Risks of Illegitimate User Profiling"
+  year: 2023
+  description: "Data-intensive systems are vulnerable to side-channel attacks in which hackers can extract sensitive information from a digital device without actively manipulating the target system. Nevertheless, there is a scarcity of IS research on how businesses can effectively detect and safeguard against side-channel attacks."
+  authors: "Raja Hasnain Anwar, Yi (Zoe) Zou, and Muhammad Taqi Raza"
+
+- title: "Keeping eyes on the road: the role of situated IS delegation in influencing drivers' situational awareness"
+  year: 2021
+  images: icis-treo.jpg
+  description: "Our key idea is to leverage the way AI algorithms pre-process various traffic events in guiding drivers’ actions. By providing scenario-specific feedback, such an approach can integrate the decision process of a driver with that of the algorithmic aid."
+  authors: "Raja Hasnain Anwar, Yi (Zoe) Zou, and Muhammad Taqi Raza"
+  link:
+    url: https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1042&context=treos_icis2021
+    display: ICIS 2021 TREOs

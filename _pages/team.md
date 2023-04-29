@@ -30,7 +30,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <br>email: {{ member.email }}</i>
 
   <ul style="overflow: hidden">
-  <b>Research Areas<.b>
+  <b>Research Areas</b>
   {% if member.number_rec == 1 %}
   <li> {{ member.interest1 }} </li>
   {% endif %}
@@ -62,7 +62,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   {% endif %}
 
   <ul style="overflow: hidden">
-  <b>Education<.b>
+  <b>Education</b>
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
