@@ -12,3 +12,13 @@
     url: https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1042&context=treos_icis2021
     display: ICIS 2021 TREOs
   highlight: 1
+
+- title: "Binary Black-box Evasion Attacks Against Deep Learning-based Static Malware Detectors with Adversarial Byte-Level Language Model"
+  year: 2020
+  image: malrnn.jpg
+  description: "We propose MalRNN, a novel deep learning-based approach to automatically generate evasive malware variants without any of these restrictions. Our approach features an adversarial example generation process, which learns a language model via a generative sequence-to-sequence recurrent neural network to augment malware binaries. MalRNN effectively evades three recent deep learning-based malware detectors and outperforms current benchmark methods."
+  authors: "Mohammadreza Ebrahimi, Ning Zhang,  James Hu, Muhammad Taqi Raza, and Hsinchun Chen"
+  link:
+    url: https://arxiv.org/pdf/2012.07994.pdf
+    display: arXiv:2012.07994
+  highlight: 1
