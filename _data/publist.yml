@@ -1,4 +1,4 @@
-- title: "Redefining the Driver's Attention Gauge in Semi-Autonomous Vehicles"
+- title: "Redefining the Driver Attention Gauge in Semi-Autonomous Vehicles"
   year: 2023
   image: attention_gauge.png
   description: "Driver distraction caused by over-reliance on automotive technology is one of the leading causes of accidents in semi-autonomous vehicles. We identify the relationship between the traffic event, the type of automotive sensing technologies, and its processing resources to capture that event to design the driver's attention gauge."
