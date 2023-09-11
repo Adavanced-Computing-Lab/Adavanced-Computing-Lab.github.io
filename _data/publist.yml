@@ -1,7 +1,7 @@
 - title: "Redefining the Driver Attention Gauge in Semi-Autonomous Vehicles"
   year: 2023
   image: attention_gauge.png
-  description: "Driver distraction caused by over-reliance on automotive technology is one of the leading causes of accidents in semi-autonomous vehicles. We identify the relationship between the traffic event, the type of automotive sensing technologies, and its processing resources to capture that event to design the driver's attention gauge."
+  description: "Driver distraction is one of the leading causes of accidents in semi-autonomous vehicles. We identify the relationship between the traffic event, the type of automotive sensing technologies, and its processing resources to capture that event to design the driver's attention gauge."
   authors: "Raja Hasnain Anwar, Fatima Muhammad Anwar, Muhammad Kumail Haider, Alon Efrat, and Muhammad Taqi Raza"
    link:
     url: https://mswimconf.com/2023/
