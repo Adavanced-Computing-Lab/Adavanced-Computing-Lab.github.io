@@ -1,7 +1,7 @@
 - name: Muhammad Taqi Raza
   photo: taqi.jpeg
   info: Assistant Professor
-  email: taqi_AT_arizona.edu
+  email: taqi_AT_umass.edu
   number_educ: 2
   education1: BS Information Technology, <a href="http://nust.edu.pk/" target="_blank">National University of Sciences and Technology, Pakistan</a>. 2008
   education2: PhD Computer Science with Songwu Lu, <a href="http://www.cs.ucla.edu/" target="_blank">University of California, Los Angeles</a>. 2019
@@ -13,20 +13,13 @@
 - name: Raja Hasnain Anwar
   photo: hasnain.jpg
   info: PhD Student
-  email: rajahasnainanwar_AT_arizona.edu
+  email: ranwar_AT_umass.edu
   number_educ: 1
   education1: BS Computer Science, <a href="http://nust.edu.pk/" target="_blank">National University of Sciences and Technology, Pakistan</a>. 2020
   number_rec: 3
   interest1: Security and privacy
   interest2: Networked systems security
   interest3: Machine Learning
-
-- name: Yutong Liu
-  photo: rock.jpg
-  info: PhD student
-  email: yutong_AT_arizona.edu
-  number_educ: 0
-  education1:
 
 - name: "This could be you !"
   photo: rock.jpg
