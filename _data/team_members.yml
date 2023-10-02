@@ -32,6 +32,17 @@
   interest2: Hardware Design
   interest3: Machine Learning
 
+- name: Ali Hamza Malik
+  photo: ali.jpg
+  info: PhD Student
+  email: ahmalik_AT_umass.edu
+  number_educ: 1
+  education1: BE Electrical Engineering, <a href="http://nust.edu.pk/" target="_blank">National University of Sciences and Technology, Pakistan</a>. 2023
+  number_rec: 3
+  interest1: Quantum Communication/Computing
+  interest2: System Security
+  interest3: Machine Learning
+
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="https://adavanced-computing-lab.github.io/vacancies">openings</a> for more info.
