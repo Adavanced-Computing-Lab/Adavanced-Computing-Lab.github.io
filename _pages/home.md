@@ -25,9 +25,10 @@ We are a dynamic research group at the [University of Massachusetts Amherst](htt
             <a href="{{ site.url }}{{ site.baseurl }}/publications"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/icis-treo.jpg" alt="Keeping eyes on the road: the role of situated IS delegation in influencing drivers’ situational awareness" /></a>
         </div>
         <div class="item">
-            <a href="{{ site.url }}{{ site.baseurl }}/publications"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/attention_gauge.jpg" alt="Redefining the Driver Attention Gauge in Semi-Autonomous Vehicles" /></a>
+            <a href="{{ site.url }}{{ site.baseurl }}/publications"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/attention_gauge.png" alt="Redefining the Driver Attention Gauge in Semi-Autonomous Vehicles" /></a>
         </div>
     </div>
+  
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
