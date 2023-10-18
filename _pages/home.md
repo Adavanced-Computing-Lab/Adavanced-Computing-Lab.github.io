@@ -19,10 +19,13 @@ We are a dynamic research group at the [University of Massachusetts Amherst](htt
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <a href="{{ site.url }}{{ site.baseurl }}/research"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/POWDER-RENEW.gif" alt="Slide 1" /></a>
+            <a href="{{ site.url }}{{ site.baseurl }}/publications"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/POWDER-RENEW.gif" alt="Dynamic Slice Allocation" /></a>
         </div>
         <div class="item">
-            <a href="{{ site.url }}{{ site.baseurl }}/research"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/icis-treo.jpg" alt="Slide 2" /></a>
+            <a href="{{ site.url }}{{ site.baseurl }}/publications"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/icis-treo.jpg" alt="Keeping eyes on the road: the role of situated IS delegation in influencing drivers’ situational awareness" /></a>
+        </div>
+        <div class="item">
+            <a href="{{ site.url }}{{ site.baseurl }}/publications"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/attention_gauge.jpg" alt="Redefining the Driver Attention Gauge in Semi-Autonomous Vehicles" /></a>
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -34,6 +37,10 @@ We are a dynamic research group at the [University of Massachusetts Amherst](htt
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+
+We draw inspiration from the pioneering works of Muḥammad ibn Mūsā al-Khwārizmī in mathematics, which serve as the foundational principles for modern computing.
+> Al-Khwārizmī is famous for his mathematical works, which introduced Hindu-Arabic numerals and algebra to European mathematicians. In fact, the words *algorithm* and *algebra* come from his name and the title of one of his works, respectively. -- Britannica
 
 
 Our work brings innovation in building secure and reliable networked systems. Our research identifies fundamental open questions and explores them from various angles. It contributes to better understanding of the state-of-the-art network systems by challenging their operational efficacy, and identifying unexplored aspects at their heterogeneity. It provides simple and innovative solutions from system designs to their operations through verification (see [Research](research)).

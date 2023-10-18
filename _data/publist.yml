@@ -2,7 +2,7 @@
   year: 2023
   image: attention_gauge.png
   description: "Driver distraction is one of the leading causes of accidents in semi-autonomous vehicles. We identify the relationship between the traffic event, the type of automotive sensing technologies, and its processing resources to capture that event to design the driver's attention gauge."
-  authors: "Raja Hasnain Anwar, Fatima Muhammad Anwar, Muhammad Kumail Haider, Alon Efrat, and Muhammad Taqi Raza"
+  authors: "<b>Raja Hasnain Anwar</b>, Fatima Muhammad Anwar, Muhammad Kumail Haider, Alon Efrat, and <b>Muhammad Taqi Raza</b>"
   link:
     url: https://mswimconf.com/2023/
     display: MSWiM 2023
@@ -12,7 +12,7 @@
   year: 2023
   image: typing_model.png
   description: "Data-intensive systems are vulnerable to side-channel attacks in which hackers can extract sensitive information from a digital device without actively manipulating the target system. Nevertheless, there is a scarcity of IS research on how businesses can effectively detect and safeguard against side-channel attacks."
-  authors: "Raja Hasnain Anwar, Yi (Zoe) Zou, and Muhammad Taqi Raza"
+  authors: "<b>Raja Hasnain Anwar</b>, Yi (Zoe) Zou, and <b>Muhammad Taqi Raza</b>"
   link:
     url: https://aisel.aisnet.org/amcis2023/sig_sec/sig_sec/7/
     display: AMCIS 2023
@@ -22,7 +22,7 @@
   year: 2021
   image: icis-treo.jpg
   description: "Our key idea is to leverage the way AI algorithms pre-process various traffic events in guiding drivers’ actions. By providing scenario-specific feedback, such an approach can integrate the decision process of a driver with that of the algorithmic aid."
-  authors: "Raja Hasnain Anwar, Yi (Zoe) Zou, and Muhammad Taqi Raza"
+  authors: "<b>Raja Hasnain Anwar</b>, Yi (Zoe) Zou, and <b>Muhammad Taqi Raza</b>"
   link:
     url: https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1042&context=treos_icis2021
     display: ICIS 2021 TREOs
@@ -32,7 +32,7 @@
   year: 2020
   image: malrnn.jpg
   description: "We propose MalRNN, a novel deep learning-based approach to automatically generate evasive malware variants without any of these restrictions. Our approach features an adversarial example generation process, which learns a language model via a generative sequence-to-sequence recurrent neural network to augment malware binaries. MalRNN effectively evades three recent deep learning-based malware detectors and outperforms current benchmark methods."
-  authors: "Mohammadreza Ebrahimi, Ning Zhang,  James Hu, Muhammad Taqi Raza, and Hsinchun Chen"
+  authors: "Mohammadreza Ebrahimi, Ning Zhang,  James Hu, <b>Muhammad Taqi Raza</b>, and Hsinchun Chen"
   link:
     url: https://arxiv.org/pdf/2012.07994.pdf
     display: arXiv:2012.07994
