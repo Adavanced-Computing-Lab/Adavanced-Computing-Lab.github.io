@@ -1,7 +1,7 @@
 ---
-title: "Advanced Computing Lab - Home"
+title: "Khwarizmi Lab - Home"
 layout: homelay
-excerpt: "Advanced Computing Lab at UArizona."
+excerpt: "Khwarizmi Lab @ UMass Amherst."
 sitemap: false
 permalink: /
 ---
