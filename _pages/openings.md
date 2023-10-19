@@ -28,7 +28,7 @@ If you are interested in working with us as a PhD student or postdoc, please sen
 
 
 ### Masters Thesis for University of Massachusetts Amherst students
-If you are a Masters student at University of Massachusetts Amherst looking for a Masters project, contact me (or any group member) per email or stop by my office.
+If you are a Masters student at University of Massachusetts Amherst looking for a Masters thesis or project, contact me (or any group member) per email or stop by my office.
 
 ### BSc / Masters students from elsewhere
 If you are interested in pursuing an MSECE at University of Massachusetts Amherst, see [umass.edu](https://www.umass.edu/engineering/academics/ms-electrical-computer-engineering). Sometimes, we take Masters students or summer interns if we get exceptional applicants (this usually means very good grades and personal recommendations).
