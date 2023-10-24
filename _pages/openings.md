@@ -24,14 +24,14 @@ You will have the chance to work on the grand challenges of networked systems, o
 [Opening 5]({{ site.baseurl }}/downloads/PHD2.pdf). -->
 
 ### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:taqi@arizona.edu). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
+If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:taqi@umass.edu). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
 
 
-### Master projects for University of Arizona students
-If you are a Master student at University of Arizona looking for a Master project, contact me (or any group member) per email or stop by my office.
+### Masters Thesis for University of Massachusetts Amherst students
+If you are a Masters student at University of Massachusetts Amherst looking for a Masters thesis or project, contact me (or any group member) per email or stop by my office.
 
-### Bsc / Master students from elsewhere
-If you are interested in pursuing a Master degree at University of Arizona, see [arizona.edu](https://eller.arizona.edu/departments-research/schools-departments/mis). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
+### BSc / Masters students from elsewhere
+If you are interested in pursuing an MSECE at University of Massachusetts Amherst, see [umass.edu](https://www.umass.edu/engineering/academics/ms-electrical-computer-engineering). Sometimes, we take Masters students or summer interns if we get exceptional applicants (this usually means very good grades and personal recommendations).
 
 
 <!-- <figure>
