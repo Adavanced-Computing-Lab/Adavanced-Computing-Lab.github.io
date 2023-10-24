@@ -1,3 +1,12 @@
+- title: "A Comprehensive Study on Cyber Attacks in Communication Networks in Water Purification and Distribution Plants: Challenges, Vulnerabilities, and Future Prospects"
+  year: 2023
+  description: "Through the lens of IIoT, the survey provides a technical investigation that covers attack models, actual cases of cyber intrusions in the water sector, a range of security difficulties encountered, and preventative security solutions. We also explore upcoming perspectives, illuminating the predicted advancements and orientations in this dynamic subject."
+  authors: "Muhammad Muzamil Aslam, Ali Tufail, Ki-Hyung Kim, Rosyzie Anna Awg Haji Mohd Apong, and <b>Muhammad Taqi Raza</b>"
+  link:
+    url: https://www.mdpi.com/1424-8220/23/18/7999
+    display: Sensors
+  highlight: 0
+
 - title: "Redefining the Driver Attention Gauge in Semi-Autonomous Vehicles"
   year: 2023
   image: attention_gauge.png
@@ -5,7 +14,7 @@
   authors: "<b>Raja Hasnain Anwar</b>, Fatima Muhammad Anwar, Muhammad Kumail Haider, Alon Efrat, and <b>Muhammad Taqi Raza</b>"
   link:
     url: https://mswimconf.com/2023/
-    display: MSWiM 2023
+    display:  International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM)
   highlight: 1
 
 - title: "Detecting Privacy Threats with Machine Learning: A Design Framework for Identifying Side-Channel Risks of Illegitimate User Profiling"
@@ -15,8 +24,26 @@
   authors: "<b>Raja Hasnain Anwar</b>, Yi (Zoe) Zou, and <b>Muhammad Taqi Raza</b>"
   link:
     url: https://aisel.aisnet.org/amcis2023/sig_sec/sig_sec/7/
-    display: AMCIS 2023
+    display: Americas Conference on Information Systems (AMCIS)
   highlight: 1
+
+- title: "Enabling Emerging Edge Applications Through a 5G Control Plane Intervention"
+  year: 2022
+  description: "In this paper, we consider the problem of enabling latency-sensitive and safety-critical edge applications on 5G networks. We identify fundamental control plane design challenges and posit enabling these applications requires re-thinking the cellular control plane. We propose a new edge-based cellular control plane, CellClone, which provides fast and fault-tolerant control plane processing."
+  authors: "Mukhtiar Ahmad, Muhammad Ali Nawazish, Muhammad Taimoor Tariq, Muhammad Basit Iqbal Awan, <b>Muhammad Taqi Raza</b>, and Zafar Ayyub Qazi"
+  link:
+    url: https://dl.acm.org/doi/pdf/10.1145/3555050.3569130
+    display: International Conference on emerging Networking EXperiments and Technologies
+  highlight: 0
+
+- title: "LTE NFV Rollback Recovery"
+  year: 2022
+  description: "Achieving high service availability is challenging because failover procedure must keep the latencysensitive control-plane procedures intact during failures. Through our empirical study, we show that existing recovery mechanisms on the cloud and standardized LTE solutions are coarse-grained, thus unable to quickly recover from failures. They incur LTE service outage, lost network connectivity, and slow recovery. To address these issues, we describe a new design for faulttolerant LTE EPC. It provides quick failure detection and timely recovery from failed operations. To reduce failure detection time, it leverages frequent retransmission of LTE control-plane signaling within EPC as an indication of failure. To recover from failure, it adopts a checkpointing based rollback recovery approach in the LTE context and addresses the shortcomings known in the classic checkpointing approach."
+  authors: "<b>Muhammad Taqi Raza</b>, Zhowei Tan, Ali Tufail, and Fatima Muhammad Anwar"
+  link:
+    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9794326
+    display: IEEE Transactions on Network and Service Management
+  highlight: 0
 
 - title: "Keeping eyes on the road: the role of situated IS delegation in influencing drivers' situational awareness"
   year: 2021
@@ -25,7 +52,25 @@
   authors: "<b>Raja Hasnain Anwar</b>, Yi (Zoe) Zou, and <b>Muhammad Taqi Raza</b>"
   link:
     url: https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1042&context=treos_icis2021
-    display: ICIS 2021 TREOs
+    display: International Conference on Information Systems (ICIS) TREOs
+  highlight: 0
+
+- title: "On Key Reinstallation Attacks over 4G LTE Control-Plane: Feasibility and Negative Impact"
+  year: 2021
+  description: "In this paper, we show that several design choices in the current LTE security setup are vulnerable to key reinstallation attacks. Specifically, on the control plane, the LTE security association setup procedures, which establish security between the device and the network, are disconnected. The keys are installed through one procedure, whereas their associated parameters (such as uplink and downlink counters) are reset through another different procedure."
+  authors: "<b>Muhammad Taqi Raza</b>, Yunqi Guo, Songwu Lu, and Fatima Muhammad Anwar"
+  link:
+    url: https://dl.acm.org/doi/fullHtml/10.1145/3485832.3485833
+    display: Annual Computer Security Applications Conference
+  highlight: 0
+
+- title: "Highly Available Service Access Through Proactive Events Execution in LTE NFV"
+  year: 2021
+  description: "This paper proposes Fat-proxy which acts as a stand-alone execution engine of critical network events. Through space uncoupling, we execute several signalling messages in parallel while skipping unnecessary messages to reduce event execution time and signalling overhead while ensuring highly available service access. We build our system prototype of open source LTE core network over virtualized platform. Our results show that we can reduce event execution time and signalling overhead upto 50% and 40%, respectively."
+  authors: "<b>Muhammad Taqi Raza</b>, Fatima Muhammad Anwar, Dongho Kim, and Kyu-Han Kim"
+  link:
+    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9509291
+    display: IEEE Transactions on Network and Service Management
   highlight: 0
 
 - title: "Binary Black-box Evasion Attacks Against Deep Learning-based Static Malware Detectors with Adversarial Byte-Level Language Model"
@@ -37,3 +82,12 @@
     url: https://arxiv.org/pdf/2012.07994.pdf
     display: arXiv:2012.07994
   highlight: 1
+
+- title: "{FERRET}: Fall-back to {LTE} Microservices for Low Latency Data Access"
+  year: 2020
+  description: "Our idea is to keep all types of LTE control-plane procedures handling at the core; while moving the execution of LTE data-plane services to the edge as microservices. We propose FERRET that is inspired from the success of the Circuit Switch Fall Back (CSFB) procedure, and falls-back to specific LTE microservice for the user requesting a particular LTE service."
+  authors: "<b>Muhammad Taqi Raza</b>, Fatima Muhammad Anwar, Dongho Kim, and Kyu-Han Kim"
+  link:
+    url: https://www.usenix.org/system/files/hotedge20_paper_raza.pdf
+    display: USENIX Workshop on Hot Topics in Edge Computing
+  highlight: 0
