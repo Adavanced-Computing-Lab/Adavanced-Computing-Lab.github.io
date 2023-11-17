@@ -13,7 +13,7 @@
   description: "Driver distraction is one of the leading causes of accidents in semi-autonomous vehicles. We identify the relationship between the traffic event, the type of automotive sensing technologies, and its processing resources to capture that event to design the driver's attention gauge."
   authors: "<b>Raja Hasnain Anwar</b>, Fatima Muhammad Anwar, Muhammad Kumail Haider, Alon Efrat, and <b>Muhammad Taqi Raza</b>"
   link:
-    url: https://mswimconf.com/2023/
+    url: https://dl.acm.org/doi/10.1145/3616388.3617544
     display:  International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM)
   highlight: 1
 
