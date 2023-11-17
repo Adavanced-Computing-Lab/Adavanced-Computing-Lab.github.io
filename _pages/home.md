@@ -2,7 +2,7 @@
 title: "Khwarizmi Lab - Home"
 layout: homelay
 excerpt: "Khwarizmi Lab @ UMass Amherst."
-sitemap: false
+sitemap: true
 permalink: /
 ---
 

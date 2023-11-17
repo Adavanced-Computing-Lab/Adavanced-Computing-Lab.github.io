@@ -1,8 +1,8 @@
 ---
-title: "Advanced Computing Lab - Vacancies"
+title: "Khwarizmi Lab - Vacancies"
 layout: textlay
-excerpt: "Openings"
-sitemap: false
+excerpt: "Openings @ Khwarizmi Lab"
+sitemap: true
 permalink: /vacancies
 ---
 

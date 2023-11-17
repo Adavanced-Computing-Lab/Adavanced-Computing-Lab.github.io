@@ -1,8 +1,8 @@
 ---
-title: "Advanced Computing Lab - Publications"
+title: "Khwarizmi Lab - Publications"
 layout: gridlay
-excerpt: "Advanced Computing Lab -- Publications."
-sitemap: false
+excerpt: "Khwarizmi Lab -- Publications."
+sitemap: true
 permalink: /publications/
 ---
 

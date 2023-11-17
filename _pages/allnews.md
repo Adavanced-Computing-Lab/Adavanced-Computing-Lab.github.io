@@ -1,8 +1,8 @@
 ---
-title: "News"
+title: "Khwarizmi Lab - News"
 layout: textlay
-excerpt: "Advanced Computing Lab at UArizona."
-sitemap: false
+excerpt: "News @ Khwarizmi Lab"
+sitemap: true
 permalink: /allnews.html
 ---
 

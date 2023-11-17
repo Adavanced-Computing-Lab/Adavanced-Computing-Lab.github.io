@@ -1,8 +1,8 @@
 ---
-title: "Advanced Computing Lab - Team"
+title: "Khwarizmi Lab - Team"
 layout: gridlay
-excerpt: "Advanced Computing Lab: Team members"
-sitemap: false
+excerpt: "Khwarizmi Lab: Team members"
+sitemap: true
 permalink: /team/
 ---
 
@@ -11,7 +11,7 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [lab visitors](#lab-visitors).
+See team in action: [Lab Pictures]({{ site.url }}{{ site.baseurl }}/pictures)!
 
 ## Staff
 {% assign number_printed = 0 %}

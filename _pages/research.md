@@ -1,8 +1,8 @@
 ---
-title: "Advanced Computing Lab - Research"
+title: "Khwarizmi Lab - Research"
 layout: textlay
-excerpt: "Advanced Computing Lab --Advanced Computing  Research"
-sitemap: false
+excerpt: "Khwarizmi Lab -- Research"
+sitemap: true
 permalink: /research/
 ---
 

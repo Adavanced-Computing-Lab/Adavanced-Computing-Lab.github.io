@@ -1,8 +1,8 @@
 ---
-title: "Advanced Computing Lab - AOA"
+title: "Khwarizmi Lab - AOA"
 layout: textlay
 excerpt: "AOA"
-sitemap: false
+sitemap: true
 permalink: /aoa.html
 ---
 
