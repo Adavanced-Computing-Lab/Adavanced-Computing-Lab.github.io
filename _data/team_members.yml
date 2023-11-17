@@ -27,10 +27,11 @@
   email: mnazeer_AT_umass.edu
   number_educ: 1
   education1: BE Electrical Engineering, <a href="http://nust.edu.pk/" target="_blank">National University of Sciences and Technology, Pakistan</a>. 2023
-  number_rec: 3
-  interest1: Networked Embedded Systems
-  interest2: Hardware Design
-  interest3: Machine Learning
+  number_rec: 4
+  interest1: Embedded Systems
+  interest2: 5G at the edge
+  interest3: Internet of Things
+  interest4: Hardware Design
 
 - name: Ali Hamza Malik
   photo: ali.jpg
@@ -55,7 +56,7 @@
   interest3: Machine Learning
   interest4: VLSI/Hardware Design
 
-- name: "This could be you !"
+- name: "This could be you!!"
   photo: rock.jpg
   info: See <a href="https://adavanced-computing-lab.github.io/vacancies">openings</a> for more info.
   email: taqi_AT_arizona.edu
