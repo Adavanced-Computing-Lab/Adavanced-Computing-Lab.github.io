@@ -20,10 +20,10 @@ permalink: /pictures/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-3 clearfix">
+<div class="col-sm-4 clearfix">
 <p>
 <strong style="margin-left:10px !important;">{{ pic.title }}</strong>
-<img src="{{ site.url }}{{ site.baseurl }}/images/gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/gallery/{{ pic.image }}" class="img-responsive" width="100%" style="float: left" />
 </p>
 </div>
 
