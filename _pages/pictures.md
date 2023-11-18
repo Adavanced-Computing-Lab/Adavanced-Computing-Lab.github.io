@@ -21,10 +21,11 @@ permalink: /pictures/
 {% endif %}
 
 <div class="col-sm-4 clearfix">
-<p>
-<strong style="margin-left:10px !important;">{{ pic.title }}</strong>
-<img src="{{ site.url }}{{ site.baseurl }}/images/gallery/{{ pic.image }}" class="img-responsive" width="100%" style="float: left" />
+<p style="margin-left:10px !important;">
+<strong>{{ pic.title }}</strong><br/>
+<em>{{ pic.date }}</em>
 </p>
+<img src="{{ site.url }}{{ site.baseurl }}/images/gallery/{{ pic.image }}" alt="{{ pic.alt }}" class="img-responsive" width="100%" style="float: left" />
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
