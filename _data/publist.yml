@@ -15,6 +15,7 @@
   link:
     url: https://dl.acm.org/doi/10.1145/3616388.3617544
     display:  International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM)
+    pdf: 3616388.3617544.pdf
   highlight: 1
 
 - title: "Detecting Privacy Threats with Machine Learning: A Design Framework for Identifying Side-Channel Risks of Illegitimate User Profiling"
@@ -25,6 +26,7 @@
   link:
     url: https://aisel.aisnet.org/amcis2023/sig_sec/sig_sec/7/
     display: Americas Conference on Information Systems (AMCIS)
+    pdf: AMCIS23.pdf
   highlight: 1
 
 - title: "Enabling Emerging Edge Applications Through a 5G Control Plane Intervention"
@@ -53,6 +55,7 @@
   link:
     url: https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1042&context=treos_icis2021
     display: International Conference on Information Systems (ICIS) TREOs
+    pdf: ICISTREO23.pdf
   highlight: 0
 
 - title: "On Key Reinstallation Attacks over 4G LTE Control-Plane: Feasibility and Negative Impact"
