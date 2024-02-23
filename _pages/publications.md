@@ -25,7 +25,10 @@ permalink: /publications/
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <pubtit>{{ publi.title }} {% if publi.link.pdf %}[<a href="{{ site.url }}{{ site.baseurl }}/docs/{{ publi.link.pdf }}" target="_blank">PDF</a>]{% endif %}</pubtit>
+  <pubtit>{{ publi.title }}
+  {% if publi.link.pdf %}[<a href="{{ site.url }}{{ site.baseurl }}/docs/{{ publi.link.pdf }}" target="_blank">PDF</a>]{% endif %}
+  {% if publi.link.slides %}[<a href="{{ site.url }}{{ site.baseurl }}/docs/{{ publi.link.slides }}" target="_blank">Slides</a>]{% endif %}
+  </pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
@@ -58,11 +61,11 @@ permalink: /publications/
 
 {% for publi in site.data.publist %}
 
-  <b>{{ publi.year }}:</b> {{ publi.title }}<br />
-  <!-- Check if PDF link exists -->
-  {% if publi.link.pdf %}
-  <strong>[<a href="{{ site.url }}{{ site.baseurl }}/docs/{{ publi.link.pdf }}" target="_blank">PDF</a>]</strong><br />
-  {% endif %}
+  <b>{{ publi.year }}:</b> {{ publi.title }}
+  <!-- Check if file links exist -->
+  {% if publi.link.pdf %}<b>[<a href="{{ site.url }}{{ site.baseurl }}/docs/{{ publi.link.pdf }}" target="_blank">PDF</a>]</b>{% endif %}
+  {% if publi.link.slides %}<b>[<a href="{{ site.url }}{{ site.baseurl }}/docs/{{ publi.link.slides }}" target="_blank">Slides</a>]</b>{% endif %}
+
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
