@@ -13,7 +13,7 @@ permalink: /team/
 
 See team in action: [Lab Pictures]({{ site.url }}{{ site.baseurl }}/pictures)!
 
-## Staff
+<!-- ## Staff -->
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -170,6 +170,24 @@ See team in action: [Lab Pictures]({{ site.url }}{{ site.baseurl }}/pictures)!
 </div>
 {% endif %}
 
+## Other Student Members
+<div class="row">
+
+<div class="col-sm-4 clearfix">
+<h4>Master's Students</h4>
+{% for member in site.data.msc %}
+{{ member.name }}
+{% endfor %}
+</div>
+
+<div class="col-sm-4 clearfix">
+<h4>Bachelor's Students</h4>
+{% for member in site.data.bsc %}
+{{ member.name }}
+{% endfor %}
+</div>
+
+</div>
 
 <!-- ## Alumni
 
@@ -206,13 +224,6 @@ See team in action: [Lab Pictures]({{ site.url }}{{ site.baseurl }}/pictures)!
 
 ## Former visitors, BSc/ MSc students
 <div class="row">
-
-<!-- <div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
-{% endfor %}
-</div> -->
 
 <div class="col-sm-4 clearfix">
 <h4>Master students</h4>

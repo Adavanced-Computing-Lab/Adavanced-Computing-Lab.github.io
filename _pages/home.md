@@ -46,8 +46,6 @@ We draw inspiration from the pioneering works of Muḥammad ibn Mūsā al-Khwār
 
 Our work brings innovation in building secure and reliable networked systems. Our research identifies fundamental open questions and explores them from various angles. It contributes to better understanding of the state-of-the-art network systems by challenging their operational efficacy, and identifying unexplored aspects at their heterogeneity. It provides simple and innovative solutions from system designs to their operations through verification (see [Research](research)).
 
-<!-- We are located at The University of Arizona, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl). -->
-
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 

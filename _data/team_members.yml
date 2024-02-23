@@ -59,8 +59,8 @@
 
 - name: "This could be you!!"
   photo: rock.jpg
-  info: See <a href="https://adavanced-computing-lab.github.io/vacancies">openings</a> for more info.
-  email: taqi_AT_arizona.edu
+  info: See <a href="https://khwarizmilab.github.io/vacancies">openings</a> for more info.
+  email: taqi_AT_umass.edu
   number_educ: 0
   education1:
   education2:
