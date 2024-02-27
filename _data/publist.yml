@@ -1,3 +1,13 @@
+- title: "In Wallet We Trust: Bypassing the Digital Wallets Payment Security for Free Shopping"
+  year: 2024
+  image: payment_arch.png
+  description: "This paper investigates the security of digital wallet transactions, highlighting vulnerabilities in authentication, authorization, and access control. It exposes weaknesses in decentralized authority delegation, allowing attackers to add stolen bank cards, bypass payment authorization, and violate access control policies. The findings underscore the severity of these vulnerabilities, prompting proposed remedies to enhance security measures in digital wallet systems."
+  authors: "<b>Raja Hasnain Anwar</b>, Syed Rafiul Hussain, and <b>Muhammad Taqi Raza</b>"
+  link:
+    url: https://www.usenix.org/conference/usenixsecurity24
+    display: USENIX Security Symposium (forthcoming)
+  highlight: 1
+
 - title: "A Comprehensive Study on Cyber Attacks in Communication Networks in Water Purification and Distribution Plants: Challenges, Vulnerabilities, and Future Prospects"
   year: 2023
   description: "Through the lens of IIoT, the survey provides a technical investigation that covers attack models, actual cases of cyber intrusions in the water sector, a range of security difficulties encountered, and preventative security solutions. We also explore upcoming perspectives, illuminating the predicted advancements and orientations in this dynamic subject."
