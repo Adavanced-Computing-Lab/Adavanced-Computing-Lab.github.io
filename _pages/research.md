@@ -8,9 +8,11 @@ permalink: /research/
 
 # Research
 
+Inspiring from the work of Al-Khwarizmi, the Khwarizmi lab at UMass Amherst is dedicated to undertake fundamental research topics that solve the challenging problems lying at the intersection of systems and algorithms. In particular, we develop secure and effective solutions in FinTech, Quantum Networks, and Critical Infrastructures -- such as 5G Mobile Networks, and Industrial Control Systems.
+
 Our work brings innovation in building secure and reliable networked systems. Our research identifies fundamental open questions and explores them from various angles. It contributes to better understanding of the state-of-the-art network systems by challenging their operational efficacy, and identifying unexplored aspects at their heterogeneity. It provides simple and innovative solutions from system designs to their operations through verification.
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+**We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 Here are some themes and domains that we currently work on:
 
