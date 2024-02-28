@@ -40,13 +40,12 @@ We are a dynamic research group at the [University of Massachusetts Amherst](htt
 </div>
 
 
-We draw inspiration from the pioneering works of Muḥammad ibn Mūsā al-Khwārizmī in mathematics, which serve as the foundational principles for modern computing.
-> Al-Khwārizmī is famous for his mathematical works, which introduced Hindu-Arabic numerals and algebra to European mathematicians. In fact, the words *algorithm* and *algebra* come from his name and the title of one of his works, respectively. -- Britannica
+We draw inspiration from the pioneering works of Abu Abdullah Muhammad ibn Musa al-Khwarizmi, an Islamic mathematician, astronomer, astrologer geographer, and a scholar. Khwarizmi developed the concept of the algorithm in mathematics which serve as the foundational principles for modern computing; for this reason he is known as the grandfather of engineering and computer science. The word “algebra” is derived from the Arabic word الجبر al-jabr, and this comes from the book titled “Kitab al-Jabr wa-l-Muqabala” (The Compendious Book on Calculation by Completion and Balancing) written by Khwarizmi in 830. This was the first ever book written on algebra describing the concepts such as: linear and quadratic equations, calculating the area and volume of certain geometric shapes, the concept of balancing when solving equations, and others. Learn more about Al-Khwarizmi from [Wikipedia](https://en.wikipedia.org/wiki/Al-Khwarizmi){:target="_blank"}.
 
 
-Our work brings innovation in building secure and reliable networked systems. Our research identifies fundamental open questions and explores them from various angles. It contributes to better understanding of the state-of-the-art network systems by challenging their operational efficacy, and identifying unexplored aspects at their heterogeneity. It provides simple and innovative solutions from system designs to their operations through verification (see [Research](research)).
+Inspiring from the work of Al-Khwarizmi, the Khwarizmi lab at UMass Amherst is dedicated to undertake fundamental research topics that solve the challenging problems lying at the intersection of systems and algorithms. In particular, we develop secure and effective solutions in FinTech, Quantum Networks, and Critical Infrastructures -- such as 5G Mobile Networks, and Industrial Control Systems (see [Research](research)).
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+**We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 <!-- We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants). -->
