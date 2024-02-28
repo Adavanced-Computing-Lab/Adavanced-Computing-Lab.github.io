@@ -28,7 +28,9 @@ See team in action: [Lab Pictures]({{ site.url }}{{ site.baseurl }}/pictures)!
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}
   <br>email: {{ member.email }}</i>
-  {% if member.link %}<b>[<a href="member.link" target="_blank">Personal Website</a>]</b>{% endif %}
+  {% if member.link %}
+  <b>[<a href="{{member.link}}" target="_blank">Personal Website</a>]</b>
+  {% endif %}
 
   <ul style="overflow: hidden">
   {% if member.number_rec > 0 %}
