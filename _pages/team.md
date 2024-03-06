@@ -24,7 +24,7 @@ See team in action: [Lab Pictures]({{ site.url }}{{ site.baseurl }}/pictures)!
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="150px" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="140px" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} {% if member.link %}<b>[<a href="{{member.link}}" target="_blank">Homepage</a>]</b>{% endif %}
   <br>email: {{ member.email }}</i>
