@@ -58,8 +58,9 @@
   number_rec: 4
   interest1: Quantum Computing/Commmunications
   interest2: Computer & Mobile Networks 
-  interest3: Machine Learning
-  interest4: VLSI/Hardware Design
+  interest3: Machine Learning & Signal Processing
+  interest4: Theory of Computation
+  interest5: VLSI/Hardware Design
 
 - name: "This could be you!!"
   photo: rock.jpg
