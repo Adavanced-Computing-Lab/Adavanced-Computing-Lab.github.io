@@ -51,7 +51,7 @@ Inspiring from the work of Al-Khwarizmi, the Khwarizmi lab at UMass Amherst is d
 <!-- We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants). -->
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/seal_workmark_source-lrg.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nsf.jfif" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cqn.png">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/seal_workmark_source-lrg.png" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nsf.jfif" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cqn.png" style="width: 200px">
 </figure>
