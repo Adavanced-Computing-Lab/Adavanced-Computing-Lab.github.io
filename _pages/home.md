@@ -53,4 +53,5 @@ Inspiring from the work of Al-Khwarizmi, the Khwarizmi lab at UMass Amherst is d
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/seal_workmark_source-lrg.png" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nsf.jfif" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cqn.png">
 </figure>
