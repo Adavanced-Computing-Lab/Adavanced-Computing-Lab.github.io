@@ -29,10 +29,11 @@ See team in action: [Lab Pictures]({{ site.url }}{{ site.baseurl }}/pictures)!
   <i>{{ member.info }} {% if member.link %}<b>[<a href="{{member.link}}" target="_blank">Homepage</a>]</b>{% endif %}
   <br>email: {{ member.email }}</i>
 
-  <ul style="overflow: hidden">
   {% if member.number_rec > 0 %}
-  <b>Research Areas</b>
+  <b>Research Areas:</b>
   {% endif %}
+
+  <ul style="overflow: hidden">
 
   {% if member.number_rec == 1 %}
   <li> {{ member.interest1 }} </li>
