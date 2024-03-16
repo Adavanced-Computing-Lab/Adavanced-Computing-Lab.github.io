@@ -8,7 +8,7 @@ permalink: /vacancies
 
 # Open positions
 
-**We are currently open for PhD and postdoc applications. The positions are mostly related to the Quantum Networks projects.**
+<!-- **We are currently open for PhD and postdoc applications. The positions are mostly related to the Quantum Networks projects.** -->
 
 We are  looking for new group members with passion, talent, and grit!
 
@@ -23,8 +23,8 @@ You will have the chance to work on the grand challenges of networked systems, o
 [Opening 4]({{ site.baseurl }}/downloads/PHD1.pdf),
 [Opening 5]({{ site.baseurl }}/downloads/PHD2.pdf). -->
 
-### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:taqi@umass.edu). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
+<!-- ### Applications for PhD and Postdoc positions
+If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:taqi@umass.edu). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email. -->
 
 
 ### Masters Thesis for University of Massachusetts Amherst students

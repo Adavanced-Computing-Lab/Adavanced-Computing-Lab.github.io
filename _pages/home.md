@@ -45,7 +45,7 @@ We draw inspiration from the pioneering works of Abu Abdullah Muhammad ibn Musa 
 
 Inspiring from the work of Al-Khwarizmi, the Khwarizmi lab at UMass Amherst is dedicated to undertake fundamental research topics that solve the challenging problems lying at the intersection of systems and algorithms. In particular, we develop secure and effective solutions in FinTech, Quantum Networks, and Critical Infrastructures -- such as 5G Mobile Networks, and Industrial Control Systems (see [Research](research)).
 
-**We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+**We are  looking for passionate Master's and Bachelor's students at UMass to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 <!-- We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants). -->
