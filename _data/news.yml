@@ -1,5 +1,5 @@
 - date: March 18, 2024
-  headline: "Kharazmi researchers are taking lead in designing secure and ethical <a href='https://www.umass.edu/news/article/umass-amherst-researchers-join-26-million-quantum-computing-effort-build-internet' target='_blank'>Quantum Internet design</a>."
+  headline: "Kharazmi researchers are taking lead in designing secure and ethical <a href='https://www.umass.edu/news/article/umass-amherst-researchers-join-26-million-quantum-computing-effort-build-internet' target='_blank'>Quantum Internet design<i class="fa fa-external-link"></i></a>."
 
 - date: February 25, 2024
   headline: "Paper titled ''In Wallet We Trust: Bypassing the Digital Wallets Payment Security for Free Shopping'' accepted at <strong>USENIX Security Symposium 2024</strong>."
@@ -20,7 +20,7 @@
   headline: "Our paper ''Detecting Privacy Threats with Machine Learning: A Design Framework for Identifying Side-Channel Risks of Illegitimate User Profiling'' accepted at AMCIS 2023."
 
 - date: February 22, 2023 
-  headline: "Dynamic slice allocation project featured in <a href='https://it.utah.edu/node4/posts/2023/february/wireless-week.php' target='_blank'>POWDER-RENEW Mobile and Wireless Week</a>."
+  headline: "Dynamic slice allocation project featured in <a href='https://it.utah.edu/node4/posts/2023/february/wireless-week.php' target='_blank'>POWDER-RENEW Mobile and Wireless Week<i class="fa fa-external-link"></i></a>."
 
 - date: October 22, 2021
   headline: "TREO talk ''Keeping eyes on the road: the role of situated IS delegation in influencing drivers' situational awareness'' accepted at ICIS 2021"
