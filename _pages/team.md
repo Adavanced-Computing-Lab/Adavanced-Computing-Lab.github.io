@@ -223,7 +223,7 @@ See team in action: [Lab Pictures]({{ site.url }}{{ site.baseurl }}/pictures)!
 </div>
 {% endif %} -->
 
-## Former visitors, BSc/ MSc students
+## Former BSc/ MSc students
 <div class="row">
 
 <div class="col-sm-4 clearfix">
