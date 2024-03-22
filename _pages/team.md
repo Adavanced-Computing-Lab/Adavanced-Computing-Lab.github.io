@@ -117,18 +117,6 @@ See team in action: [Lab Pictures]({{ site.url }}{{ site.baseurl }}/pictures)!
 </div>
 {% endif %}
 
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
 
 ## Other Student Members
 <div class="row">
