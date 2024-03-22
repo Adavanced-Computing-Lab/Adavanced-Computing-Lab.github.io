@@ -24,6 +24,7 @@ permalink: /pictures/
 <p style="margin-left:10px !important;">
 <strong>{{ pic.title }}</strong><br/>
 <em>{{ pic.date }}</em><br/>
+<i class="fa-solid fa-location-pin"></i> {{ pic.loc }}<br/>
 {{ pic.alt }}
 </p>
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallery/{{ pic.image }}" alt="{{ pic.alt }}" class="img-responsive" width="100%" style="float: left" />
