@@ -23,7 +23,8 @@ permalink: /pictures/
 <div class="col-sm-4 clearfix">
 <p style="margin-left:10px !important;">
 <strong>{{ pic.title }}</strong><br/>
-<em>{{ pic.date }}</em>
+<em>{{ pic.date }}</em><br/>
+{{ pic.alt }}
 </p>
 <img src="{{ site.url }}{{ site.baseurl }}/images/gallery/{{ pic.image }}" alt="{{ pic.alt }}" class="img-responsive" width="100%" style="float: left" />
 </div>
