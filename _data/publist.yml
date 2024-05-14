@@ -4,7 +4,7 @@
   description: "This paper investigates the security of digital wallet transactions, highlighting vulnerabilities in authentication, authorization, and access control. It exposes weaknesses in decentralized authority delegation, allowing attackers to add stolen bank cards, bypass payment authorization, and violate access control policies. The findings underscore the severity of these vulnerabilities, prompting proposed remedies to enhance security measures in digital wallet systems."
   authors: "<b>Raja Hasnain Anwar</b>, Syed Rafiul Hussain, and <b>Muhammad Taqi Raza</b>"
   link:
-    url: https://www.usenix.org/conference/usenixsecurity24
+    url: https://www.usenix.org/conference/usenixsecurity24/presentation/anwar
     display: USENIX Security Symposium (forthcoming)
   highlight: 1
 
