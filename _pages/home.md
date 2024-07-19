@@ -19,6 +19,9 @@ We are a dynamic research group at the <a href="http://www.umass.edu" target="_b
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
+            <a href="{{ site.url }}{{ site.baseurl }}/publications"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NFC-flow-diagram.png" alt="In Wallet We Trust: Bypassing the Digital Wallets Payment Security for Free Shopping" /></a>
+        </div>
+        <div class="item">
             <a href="{{ site.url }}{{ site.baseurl }}/publications"><img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/POWDER-RENEW.gif" alt="Dynamic Slice Allocation" /></a>
         </div>
         <div class="item">
