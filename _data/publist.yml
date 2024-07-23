@@ -3,7 +3,7 @@
   description: "We empirically demonstrate that 5G radio communication becomes the side channel to precisely infer the user's applications in real-time.  The key idea lies in observing the 5G physical and MAC layer interactions over time that reveal the application's behavior."
   authors: "Md Ruman Islam, <b>Raja Hasnain Anwar</b>, Spyridon Mastorakis, and <b>Muhammad Taqi Raza</b>"
   link:
-    url: https://sites.google.com/view/ieee-mass-2024/home
+    url: https://arxiv.org/pdf/2407.07361
     display: IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS)
   highlight: 0
 
