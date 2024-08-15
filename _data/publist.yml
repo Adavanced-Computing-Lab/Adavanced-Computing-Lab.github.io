@@ -14,7 +14,8 @@
   authors: "<b>Raja Hasnain Anwar</b>, Syed Rafiul Hussain, and <b>Muhammad Taqi Raza</b>"
   link:
     url: https://www.usenix.org/conference/usenixsecurity24/presentation/anwar
-    display: USENIX Security Symposium (forthcoming)
+    display: USENIX Security Symposium
+    pdf: usenixsecurity24-anwar.pdf
   highlight: 1
 
 - title: "A Comprehensive Study on Cyber Attacks in Communication Networks in Water Purification and Distribution Plants: Challenges, Vulnerabilities, and Future Prospects"
