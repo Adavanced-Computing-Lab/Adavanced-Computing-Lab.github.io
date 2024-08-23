@@ -9,6 +9,6 @@ permalink: /media.html
 # Media Coverage
 
 {% for article in site.data.media %}
-<p><b>{{ article.date }}</b> <br>
-<em>{{ article.headline }}</em></p>
+<h4>{{ article.date }}</h4>
+<p style="font-size: larger !important;"><em>{{ article.headline }}</em></p>
 {% endfor %}
