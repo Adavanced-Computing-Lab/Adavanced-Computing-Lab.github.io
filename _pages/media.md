@@ -10,5 +10,5 @@ permalink: /media.html
 
 {% for article in site.data.media %}
 <h3>{{ article.date }}</h3>
-<h5><b><em>{{ article.headline }}</em></b></h5>
+<h4><em>{{ article.headline }}</em></h4>
 {% endfor %}
