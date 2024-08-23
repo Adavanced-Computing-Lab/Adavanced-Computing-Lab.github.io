@@ -1,12 +1,3 @@
-- title: "Characterizing Encrypted Application Traffic through Cellular Radio Interface Protocol"
-  year: 2024
-  description: "We empirically demonstrate that 5G radio communication becomes the side channel to precisely infer the user's applications in real-time.  The key idea lies in observing the 5G physical and MAC layer interactions over time that reveal the application's behavior."
-  authors: "Md Ruman Islam, <b>Raja Hasnain Anwar</b>, Spyridon Mastorakis, and <b>Muhammad Taqi Raza</b>"
-  link:
-    url: https://arxiv.org/pdf/2407.07361
-    display: IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS)
-  highlight: 0
-
 - title: "In Wallet We Trust: Bypassing the Digital Wallets Payment Security for Free Shopping"
   year: 2024
   image: payment_arch.png
@@ -16,7 +7,18 @@
     url: https://www.usenix.org/conference/usenixsecurity24/presentation/anwar
     display: USENIX Security Symposium
     pdf: usenixsecurity24-anwar.pdf
+    slides: Anwar-digital-wallet-payment.pdf
   highlight: 1
+
+- title: "Characterizing Encrypted Application Traffic through Cellular Radio Interface Protocol"
+  year: 2024
+  description: "We empirically demonstrate that 5G radio communication becomes the side channel to precisely infer the user's applications in real-time.  The key idea lies in observing the 5G physical and MAC layer interactions over time that reveal the application's behavior."
+  authors: "Md Ruman Islam, <b>Raja Hasnain Anwar</b>, Spyridon Mastorakis, and <b>Muhammad Taqi Raza</b>"
+  link:
+    url: https://arxiv.org/pdf/2407.07361
+    display: IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS)
+    pdf: 2407.07361v2.pdf
+  highlight: 0
 
 - title: "A Comprehensive Study on Cyber Attacks in Communication Networks in Water Purification and Distribution Plants: Challenges, Vulnerabilities, and Future Prospects"
   year: 2023
