@@ -7,7 +7,7 @@
 
 # Site settings
 title: Khwarizmi Lab
-email: taqi@umass.com
+email: taqi@umass.edu
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Khwarizmi Lab at The University of Massachusetts Amherst.
 baseurl: ""
