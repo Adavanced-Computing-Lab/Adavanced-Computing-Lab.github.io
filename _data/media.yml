@@ -1,33 +1,48 @@
-- date: August 21, 2024
-  headline: "<a href='https://www.pymnts.com/mobile-wallets/2024/5-emerging-security-imperatives-for-digital-wallets/' target='_blank'>PYMNTS</a>: 5 Emerging Security Imperatives for Digital Wallets."
+- date: August 23, 2024
+  headline: "'Researchers Uncover Security Issues in Digital Wallets' @ <a href='https://www.paymentsjournal.com/researchers-uncover-security-issues-in-digital-wallets/' target='_blank'>PaymentsJournal</a>"
 
 - date: August 21, 2024
-  headline: "<a href='https://www.biometricupdate.com/202408/are-digital-wallets-safe-new-research-says-no' target='_blank'>Biometric Update</a>: Are digital wallets safe? New research says'no'."
+  headline: "'5 Emerging Security Imperatives for Digital Wallets' @ <a href='https://www.pymnts.com/mobile-wallets/2024/5-emerging-security-imperatives-for-digital-wallets/' target='_blank'>PYMNTS</a>"
+
+- date: August 21, 2024
+  headline: "'Are digital wallets safe? New research says'no'' @ <a href='https://www.biometricupdate.com/202408/are-digital-wallets-safe-new-research-says-no' target='_blank'>Biometric Update</a>"
+
+- date: August 21, 2024
+  headline: "'Sicherheitslücken in digitalen Wallets -- Betrug mit fremden Karten möglich' @ <a href='https://www.it-finanzmagazin.de/sicherheitsluecken-in-digitalen-wallets-betrug-mit-fremden-karten-moeglich-214928/' target='_blank'>IT FinanzMagazin</a>"
+
+- date: August 21, 2024
+  headline: "'Cartão bloqueado pode funcionar em carteiras digitais' @ <a href='https://www.cisoadvisor.com.br/cartao-bloqueado-pode-funcionar-em-carteiras-digitais/' target='_blank'>CISO Advisor</a>"
 
 - date: August 20, 2024
-  headline: "<a href='https://www.theregister.com/2024/08/20/digital_wallets_simplify_fraud/' target='_blank'>The Register</a>: Digital wallets can allow purchases with stolen credit cards."
+  headline: "'Descubren puntos débiles en la seguridad de monederos electrónicos' @ <a href='https://noticiasdelaciencia.com/art/51688/descubren-puntos-debiles-en-la-seguridad-de-monederos-electronicos' target='_blank'>Noticias de la Ciencia y la Tecnologia</a>"
 
 - date: August 20, 2024
-  headline: "<a href='https://www.techzine.eu/news/security/123571/digital-wallets-susceptible-to-stolen-credit-card-fraud/' target='_blank'>TECHZINE</a>: Digital wallets susceptible to stolen credit card fraud."
+  headline: "'Digital wallets can allow purchases with stolen credit cards' @ <a href='https://www.theregister.com/2024/08/20/digital_wallets_simplify_fraud/' target='_blank'>The Register</a>"
 
 - date: August 20, 2024
-  headline: "<a href='https://www.newsbytesapp.com/news/science/hackers-can-use-stolen-credit-card-details-on-digital-wallets/story' target='_blank'>NewsBytes</a>: Security flaw allows stolen credit card use on digital wallets."
+  headline: "'Digital wallets susceptible to stolen credit card fraud' @ <a href='https://www.techzine.eu/news/security/123571/digital-wallets-susceptible-to-stolen-credit-card-fraud/' target='_blank'>TECHZINE</a>"
+
+- date: August 20, 2024
+  headline: "'Security flaw allows stolen credit card use on digital wallets' @ <a href='https://www.newsbytesapp.com/news/science/hackers-can-use-stolen-credit-card-details-on-digital-wallets/story' target='_blank'>NewsBytes</a>"
 
 - date: August 19, 2024
-  headline: "<a href='https://sciencex.com/news/2024-08-week-japanese-ancestry-loophole-digital.html' target='_blank'>Science X</a>: Best of Last Week—Japanese ancestry challenged, loophole in digital wallets, using AI to diagnose genetic disease."
+  headline: "'Best of Last Week—Japanese ancestry challenged, <b>loophole in digital wallets</b>, using AI to diagnose genetic disease' @ <a href='https://sciencex.com/news/2024-08-week-japanese-ancestry-loophole-digital.html' target='_blank'>Science X</a>"
 
 - date: August 19, 2024
-  headline: "<a href='https://www.helpnetsecurity.com/2024/08/19/digital-wallet-stolen-card/' target='_blank'>Help Net Security</a>: Stolen, locked payment cards can be used with digital wallet apps."
+  headline: "'Stolen, locked payment cards can be used with digital wallet apps' @ <a href='https://www.helpnetsecurity.com/2024/08/19/digital-wallet-stolen-card/' target='_blank'>Help Net Security</a>"
+
+- date: August 16, 2024
+  headline: "'Scientists find security flaw in digital wallets: Your cards could be at risk' @ <a href='https://knowridge.com/2024/08/scientists-find-security-flaw-in-digital-wallets-your-cards-could-be-at-risk/' target='_blank'>Knowridge</a>"
 
 - date: August 14, 2024
-  headline: "<a href='https://www.eurekalert.org/news-releases/1054622' target='_blank'>EurekaAlert!</a>: New Study Reveals Loophole in Digital Wallet Security—Even If Rightful Cardholder Does Not Use a Digital Wallet."
+  headline: "'New Study Reveals Loophole in Digital Wallet Security—Even If Rightful Cardholder Does Not Use a Digital Wallet' @ <a href='https://www.eurekalert.org/news-releases/1054622' target='_blank'>EurekaAlert!</a>"
 
 - date: August 14, 2024
-  headline: "<a href='https://techxplore.com/news/2024-08-reveals-loophole-digital-wallet-rightful.html' target='_blank'>Tech Xplore</a>: New Study Reveals Loophole in Digital Wallet Security—Even If Rightful Cardholder Does Not Use a Digital Wallet."
+  headline: "'New Study Reveals Loophole in Digital Wallet Security—Even If Rightful Cardholder Does Not Use a Digital Wallet' @ <a href='https://techxplore.com/news/2024-08-reveals-loophole-digital-wallet-rightful.html' target='_blank'>Tech Xplore</a>"
 
 - date: August 14, 2024
-  headline: "<a href='https://www.umass.edu/news/article/new-study-reveals-loophole-digital-wallet-security-even-if-rightful-cardholder-doesnt' target='_blank'>UMass Amherst News</a>: New Study Reveals Loophole in Digital Wallet Security—Even If Rightful Cardholder Does Not Use a Digital Wallet."
+  headline: "'New Study Reveals Loophole in Digital Wallet Security—Even If Rightful Cardholder Does Not Use a Digital Wallet' @ <a href='https://www.umass.edu/news/article/new-study-reveals-loophole-digital-wallet-security-even-if-rightful-cardholder-doesnt' target='_blank'>UMass Amherst News</a>"
 
 - date: March 18, 2024
-  headline: "<a href='https://www.umass.edu/news/article/umass-amherst-researchers-join-26-million-quantum-computing-effort-build-internet' target='_blank'>UMass Amherst News</a>: UMass Amherst Researchers Join $26 Million Quantum Computing Effort to Build Internet of the Future."
+  headline: "'UMass Amherst Researchers Join $26 Million Quantum Computing Effort to Build Internet of the Future' @ <a href='https://www.umass.edu/news/article/umass-amherst-researchers-join-26-million-quantum-computing-effort-build-internet' target='_blank'>UMass Amherst News</a>"
 
