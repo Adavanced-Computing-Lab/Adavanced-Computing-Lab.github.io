@@ -18,13 +18,16 @@ permalink: /media.html
 - <a href="https://www.techradar.com/pro/digital-wallets-allow-for-the-use-of-stolen-credit-cards" title="Digital wallets allow for the use of stolen credit cards" target='_blank'>TechRadar</a>
 - <a href="https://www.theregister.com/2024/08/20/digital_wallets_simplify_fraud/" title="Digital wallets can allow purchases with stolen credit cards" target='_blank'>The Register</a>
 - <a href="https://techxplore.com/news/2024-08-reveals-loophole-digital-wallet-rightful.html" title="Digital wallets can allow purchases with stolen credit cards" target='_blank'>Tech Xplore</a>
+- <a href="https://www.paymentsdive.com/news/academics-question-digital-wallet-security/726008/" title="Academics question digital wallet security" target='_blank'>Payments Dive</a>
 - <a href="https://www.pymnts.com/mobile-wallets/2024/5-emerging-security-imperatives-for-digital-wallets/" title="5 Emerging Security Imperatives for Digital Wallets" target='_blank'>PYMNTS</a>
 - <a href='https://www.paymentsjournal.com/researchers-uncover-security-issues-in-digital-wallets/' target='_blank' title="Researchers Uncover Security Issues in Digital Wallets">PaymentsJournal</a>
 - <a href="https://www.eurekalert.org/news-releases/1054622" title="Digital wallets can allow purchases with stolen credit cards" target='_blank'>EurekaAlert!</a>
 - <a href="https://www.helpnetsecurity.com/2024/08/19/digital-wallet-stolen-card/" title="Stolen, locked payment cards can be used with digital wallet apps" target='_blank'>Help Net Security</a>
 - <a href="https://sciencex.com/news/2024-08-week-japanese-ancestry-loophole-digital.html" title="Best of Last Week—Japanese ancestry challenged, loophole in digital wallets, using AI to diagnose genetic disease" target='_blank'>Science X</a>
 - <a href="https://www.newsbytesapp.com/news/science/hackers-can-use-stolen-credit-card-details-on-digital-wallets/story" title="Security flaw allows stolen credit card use on digital wallets" target='_blank'>NewsBytes</a>
+- <a href="https://businesswest.com/blog/new-study-reveals-loophole-in-digital-wallet-security/" title="New Study Reveals Loophole in Digital Wallet Security" target='_blank'>Business West</a>
 - <a href='https://www.fintechnews.org/researchers-uncover-security-issues-in-digital-wallets/' target='_blank' title="Researchers uncover security issues in Digital Wallets">Fintech News</a>
+- <a href='https://hackerdose.com/news/digital-wallet-loophole-shop-for-free/' target='_blank' title="Digital Wallet Loophole Allows Criminals to Shop for Free with Locked Cards">Hacker Dose</a>
 - <a href='https://www.techzine.eu/news/security/123571/digital-wallets-susceptible-to-stolen-credit-card-fraud/' target='_blank' title='Digital wallets susceptible to stolen credit card fraud'>TECHZINE</a>
 - <a href='https://noticiasdelaciencia.com/art/51688/descubren-puntos-debiles-en-la-seguridad-de-monederos-electronicos' target='_blank' title='Descubren puntos débiles en la seguridad de monederos electrónicos'>Noticias de la Ciencia y la Tecnologia</a>
 - <a href='https://www.cisoadvisor.com.br/cartao-bloqueado-pode-funcionar-em-carteiras-digitais/' target='_blank' title='Cartão bloqueado pode funcionar em carteiras digitais'>CISO Advisor</a>
