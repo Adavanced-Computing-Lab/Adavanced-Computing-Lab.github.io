@@ -41,4 +41,5 @@ permalink: /media.html
 - <a href="https://www.google.com/search?q=digital+wallets+stolen+cards+research+news" target='_blank'>Google Search Results</a> 
 
 ## Quantum Computing
+- <a href="https://www.cnbc.com/amp/2024/12/22/what-google-quantum-chip-breakthrough-means-for-bitcoins-future.html" title="Taqi Raza Says Breakthroughs in Quantum Computing Will Likely Transform Industries" target='_blank'>CNBC</a>
 - <a href="https://www.umass.edu/news/article/umass-amherst-researchers-join-26-million-quantum-computing-effort-build-internet" title="UMass Amherst Researchers Join $26 Million Quantum Computing Effort to Build Internet of the Future" target='_blank'>UMass News</a>
